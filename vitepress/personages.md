@@ -45,7 +45,7 @@ De keuze voor Alex als herkenbare, alledaagse student zorgt voor directe betrokk
 
 ## Visuele uitwerking
 
-![Schets van Alex](/images/alex-schets.png)
+*(Schets van Alex)*
 
 *(Schets van de hoofdpersoon met typische studentenaandachtspunten: telefoon, laptop, rugzak, casual kleding.)*
 
