@@ -3,20 +3,19 @@ layout: home
 
 hero:
   name: Je klikt nooit alleen
-  text: Een storytellingportfolio over online privacy
+  text: Online privacy
   tagline: >
     Een gewone dag van een student laat zien hoeveel digitale sporen ongemerkt worden achtergelaten.
-    Deze website onderzoekt hoe storytelling kan helpen om privacy voelbaar, herkenbaar en relevant te maken.
   image:
-    src: /hero-privacy.png
-    alt: Illustratie van een student omringd door digitale sporen
+    src: /images/hero.jpg
+    alt: Illustratie van een student op zijn telefoon
   actions:
     - theme: brand
-      text: Bekijk het portfolio
-      link: /inleiding
+      text: Portfolio
+      link: /portfolio/inleiding
     - theme: alt
-      text: Naar het creatieve product
-      link: /creatief-product
+      text: Product
+      link: /product/intro
 
 features:
   - title: Onderwerp
@@ -40,7 +39,7 @@ In dit portfolio wordt het volledige ontwikkelproces van het communicatieconcept
 Van motivatie en doelgroep tot verhaalwereld, personages, creatieve methodes en reflectie: elk onderdeel laat zien hoe het concept stap voor stap tot stand is gekomen.
 
 De kern van het project is een storytellingwebsite waarin een gewone dag van een student wordt gebruikt om online privacy invoelbaar te maken.  
-Door middel van tekst, beeld en structuur wordt zichtbaar hoe een abstract thema als privacy kan worden vertaald naar een herkenbaar verhaal. [memory:cite:6]
+Door middel van tekst, beeld en structuur wordt zichtbaar hoe een abstract thema als privacy kan worden vertaald naar een herkenbaar verhaal.
 
 ## Opbouw van het portfolio
 
@@ -50,9 +49,6 @@ Deze website bestaat uit de volgende onderdelen:
 - Conceptbeschrijving
 - Creatief product
 - Creatief proces
-- Verhaalwereld
-- Verhaalstructuur
-- Personages
 - Beoordelingsmodel
 - Feedback op andere concepten
 - Reflectie

@@ -29,11 +29,6 @@ export default defineConfig({
             { text: 'Conceptbeschrijving', link: '/portfolio/conceptbeschrijving' },
             { text: 'Creatief product', link: '/portfolio/creatief-product' },
             { text: 'Creatief proces', link: '/portfolio/creatief-proces' },
-            { text: 'Verhaalwereld', link: '/portfolio/verhaalwereld' },
-            { text: 'Verhaalstructuur', link: '/portfolio/verhaalstructuur' },
-            { text: 'Personages', link: '/portfolio/personages' },
-            { text: 'Beoordelingsmodel', link: '/portfolio/beoordelingsmodel' },
-            { text: 'Feedback op anderen', link: '/portfolio/feedback' },
             { text: 'Reflectie', link: '/portfolio/reflectie' },
             { text: 'Bronnen', link: '/portfolio/bronnen' }
           ]
@@ -44,7 +39,7 @@ export default defineConfig({
         {
           text: 'Product',
           items: [
-            { text: 'Intro', link: '/product/' },
+            { text: 'Intro', link: '/product/intro' },
             { text: 'Het verhaal', link: '/product/verhaal' }
           ]
         }
