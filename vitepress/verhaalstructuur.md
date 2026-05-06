@@ -42,7 +42,7 @@ Door een verhaal op te delen in scènes ontstaat meer overzicht en wordt het een
 
 Onderstaand storyboard laat de globale volgorde van de belangrijkste scènes zien.
 
-![Storyboard van het verhaal](/images/storyboard.png)
+*(Storyboard)*
 
 Bij het storyboard worden per scène korte beschrijvingen en visuele aanwijzingen gegeven. Dit helpt om het verhaal niet alleen inhoudelijk, maar ook visueel te structureren. Storyboards maken het eenvoudiger om inhoud in opeenvolgende delen te ordenen en te herzien wanneer de volgorde nog niet optimaal is. 
 
