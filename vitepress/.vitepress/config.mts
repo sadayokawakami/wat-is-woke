@@ -3,7 +3,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'nl-NL',
   title: 'Je klikt nooit alleen',
-  description: 'Storytellingportfolio over privacy, digitale sporen en online bewustwording.',
+  description:
+    'Storytellingportfolio en digitaal eindproduct over privacy, digitale sporen en online bewustwording.',
   base: '/je-klikt-nooit-alleen/',
   cleanUrls: true,
   lastUpdated: true,
@@ -14,30 +15,41 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Portfolio', link: '/inleiding' },
-      { text: 'Proces', link: '/creatief-proces' },
-      { text: 'Product', link: '/creatief-product' },
-      { text: 'Reflectie', link: '/reflectie' }
+      { text: 'Product', link: '/product/' },
+      { text: 'Portfolio', link: '/portfolio/inleiding' },
+      { text: 'Reflectie', link: '/portfolio/reflectie' }
     ],
 
-    sidebar: [
-      {
-        text: 'Portfolio',
-        items: [
-          { text: 'Inleiding', link: '/inleiding' },
-          { text: 'Conceptbeschrijving', link: '/conceptbeschrijving' },
-          { text: 'Creatief product', link: '/creatief-product' },
-          { text: 'Creatief proces', link: '/creatief-proces' },
-          { text: 'Verhaalwereld', link: '/verhaalwereld' },
-          { text: 'Verhaalstructuur', link: '/verhaalstructuur' },
-          { text: 'Personages', link: '/personages' },
-          { text: 'Beoordelingsmodel', link: '/beoordelingsmodel' },
-          { text: 'Feedback op anderen', link: '/feedback' },
-          { text: 'Reflectie', link: '/reflectie' },
-          { text: 'Bronnen', link: '/bronnen' }
-        ]
-      }
-    ],
+    sidebar: {
+      '/portfolio/': [
+        {
+          text: 'Portfolio',
+          items: [
+            { text: 'Inleiding', link: '/portfolio/inleiding' },
+            { text: 'Conceptbeschrijving', link: '/portfolio/conceptbeschrijving' },
+            { text: 'Creatief product', link: '/portfolio/creatief-product' },
+            { text: 'Creatief proces', link: '/portfolio/creatief-proces' },
+            { text: 'Verhaalwereld', link: '/portfolio/verhaalwereld' },
+            { text: 'Verhaalstructuur', link: '/portfolio/verhaalstructuur' },
+            { text: 'Personages', link: '/portfolio/personages' },
+            { text: 'Beoordelingsmodel', link: '/portfolio/beoordelingsmodel' },
+            { text: 'Feedback op anderen', link: '/portfolio/feedback' },
+            { text: 'Reflectie', link: '/portfolio/reflectie' },
+            { text: 'Bronnen', link: '/portfolio/bronnen' }
+          ]
+        }
+      ],
+
+      '/product/': [
+        {
+          text: 'Product',
+          items: [
+            { text: 'Intro', link: '/product/' },
+            { text: 'Het verhaal', link: '/product/verhaal' }
+          ]
+        }
+      ]
+    },
 
     socialLinks: [
       {
@@ -62,7 +74,11 @@ export default defineConfig({
     },
 
     lastUpdated: {
-      text: 'Laatst bijgewerkt'
+      text: 'Laatst bijgewerkt',
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'short'
+      }
     },
 
     darkModeSwitchLabel: 'Wissel thema',
