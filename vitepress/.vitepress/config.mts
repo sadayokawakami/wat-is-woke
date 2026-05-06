@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'nl-NL',
   title: 'Je klikt nooit alleen',
   description: 'Storytellingportfolio over privacy, digitale sporen en online bewustwording.',
+  base: '/je-klikt-nooit-alleen/',
   cleanUrls: true,
   lastUpdated: true,
 
@@ -41,7 +42,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/jouw-gebruikersnaam/jouw-repo',
+        link: 'https://github.com/sadayokawakami/je-klikt-nooit-alleen',
         ariaLabel: 'GitHub repository'
       }
     ],
