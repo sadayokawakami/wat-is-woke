@@ -15,8 +15,8 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Product', link: '/product/' },
-      { text: 'Portfolio', link: '/portfolio/inleiding' },
+      { text: 'Product', link: '/product/intro' },
+      { text: 'Portfolio', link: '/portfolio/voorblad' },
       { text: 'Reflectie', link: '/portfolio/reflectie' }
     ],
 
@@ -25,10 +25,13 @@ export default defineConfig({
         {
           text: 'Portfolio',
           items: [
+            { text: 'Voorblad', link: '/portfolio/voorblad' },
             { text: 'Inleiding', link: '/portfolio/inleiding' },
             { text: 'Conceptbeschrijving', link: '/portfolio/conceptbeschrijving' },
-            { text: 'Creatief product', link: '/portfolio/creatief-product' },
             { text: 'Creatief proces', link: '/portfolio/creatief-proces' },
+            { text: 'Verhaal structuur', link: '/portfolio/verhaal-structuur' },
+            { text: 'Personagebeschrijving', link: '/portfolio/personage-beschrijving' },
+            { text: 'Beoordelingsmodel', link: '/portfolio/beoordelingsmodel' },
             { text: 'Reflectie', link: '/portfolio/reflectie' },
             { text: 'Bronnen', link: '/portfolio/bronnen' }
           ]

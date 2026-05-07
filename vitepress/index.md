@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: Portfolio
-      link: /portfolio/inleiding
+      link: /portfolio/voorblad
     - theme: alt
       text: Product
       link: /product/intro

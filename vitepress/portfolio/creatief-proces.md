@@ -1,7 +1,5 @@
 # Creatief proces
 
-## Inleiding
-
 Het creatieve proces voor dit project is opgezet volgens de principes van Design Thinking. Dit proces bestaat uit verschillende fasen waarin ideeën worden gegenereerd, getoetst en verfijnd. Centraal staan de divergerende en convergerende fasen, die elkaar afwisselen om tot een goed onderbouwd eindproduct te komen. Design thinking gebruikt deze afwisseling tussen divergent en convergent denken om creatieve oplossingen te ontwikkelen die aansluiten bij de behoeften van de doelgroep. 
 
 ## Divergerende fase
