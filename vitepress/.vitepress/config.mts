@@ -2,16 +2,16 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'nl-NL',
-  title: 'Je klikt nooit alleen',
+  title: 'Wat is woke',
   description:
     'Storytellingportfolio en digitaal eindproduct over privacy, digitale sporen en online bewustwording.',
-  base: '/je-klikt-nooit-alleen/',
+  base: '/wat-is-woke/',
   cleanUrls: true,
   lastUpdated: true,
 
   themeConfig: {
     logo: '/logo.png',
-    siteTitle: 'Je klikt nooit alleen',
+    siteTitle: 'Wat is woke',
 
     nav: [
       { text: 'Home', link: '/' },
@@ -29,6 +29,7 @@ export default defineConfig({
             { text: 'Inleiding', link: '/portfolio/inleiding' },
             { text: 'Conceptbeschrijving', link: '/portfolio/conceptbeschrijving' },
             { text: 'Creatief proces', link: '/portfolio/creatief-proces' },
+            { text: 'Verhaalwereld', link: '/portfolio/verhaalwereld' },
             { text: 'Verhaal structuur', link: '/portfolio/verhaal-structuur' },
             { text: 'Personagebeschrijving', link: '/portfolio/personage-beschrijving' },
             { text: 'Beoordelingsmodel', link: '/portfolio/beoordelingsmodel' },
@@ -52,7 +53,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/sadayokawakami/je-klikt-nooit-alleen',
+        link: 'https://github.com/sadayokawakami/wat-is-woke',
         ariaLabel: 'GitHub repository'
       }
     ],

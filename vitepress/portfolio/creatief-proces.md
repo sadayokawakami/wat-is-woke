@@ -1,71 +1,116 @@
 # Creatief proces
 
-Het creatieve proces voor dit project is opgezet volgens de principes van Design Thinking. Dit proces bestaat uit verschillende fasen waarin ideeën worden gegenereerd, getoetst en verfijnd. Centraal staan de divergerende en convergerende fasen, die elkaar afwisselen om tot een goed onderbouwd eindproduct te komen. Design thinking gebruikt deze afwisseling tussen divergent en convergent denken om creatieve oplossingen te ontwikkelen die aansluiten bij de behoeften van de doelgroep. 
+Voor dit beroepsproduct staat het creatieve proces centraal: de ontwikkeling van een website die het begrip ‘woke’ onderzoekt en uitlegt vanuit een maatschappelijke en verhelderende invalshoek.
+
+Het proces begon niet bij vormgeving, maar bij inhoudelijke verkenning. Dat is belangrijk, omdat een sterke website eerst vraagt om een duidelijke contentstrategie, een goed beeld van de doelgroep en een logische structuur van de informatie.
+
+De kernvraag in het proces was: wat bedoelen mensen eigenlijk wanneer ze zeggen dat iets “woke” is? Die vraag vormt het vertrekpunt van de website, omdat het woord in het publieke debat breed wordt gebruikt, maar lang niet altijd hetzelfde betekent.
+
+## Resultaten van creatieve methodes
+
+In de eerste fase zijn verschillende creatieve methodes gebruikt om tot een passende invalshoek te komen. Daarbij is bewust breed verkend, zodat niet te snel werd vastgehouden aan de eerste of meest voor de hand liggende richting.
+
+Gebruikte methodes:
+- brainstorm op thema’s en maatschappelijke invalshoeken;
+- associatiemapping rondom woorden als privacy, waarden, populisme, polarisatie en woke;
+- vergelijken van mogelijke doelgroepen en hun informatiebehoefte;
+- schetsen van meerdere websiteconcepten;
+- ordenen van inhoud op basis van hoofdvraag, deelvragen en publieksrelevantie.
+
+Deze creatieve verkenning leverde meerdere mogelijke richtingen op:
+- privacy als controle en vertrouwen;
+- maatschappelijke waarden in brede zin;
+- populisme als maatschappelijk frame;
+- woke als omstreden begrip in het publieke debat.
+
+## Literatuur en inhoudelijke verkenning
+
+Naast creatieve methodes is literatuur en online brononderzoek gebruikt om het onderwerp scherper af te bakenen. Uit deze verkenning bleek dat “woke” oorspronkelijk verwijst naar alertheid op maatschappelijke ongelijkheid en onrecht, maar dat het woord in het huidige debat vaak ook als negatief label of containerbegrip wordt gebruikt.
+
+De literatuur en bronanalyse maakten duidelijk dat het begrip inmiddels betwist is: verschillende groepen gebruiken hetzelfde woord, maar geven er een andere betekenis aan. Juist dat maakt het geschikt voor een website die niet direct een standpunt inneemt, maar probeert te verhelderen hoe taal, afwijzing en framing werken.
 
 ## Divergerende fase
 
-In de divergerende fase werden zoveel mogelijk ideeën en invalshoeken verkend. Deze fase begon met onderzoek naar privacythema’s en storytellingvormen. Verschillende ideeën werden overwogen:
+De divergerende fase stond in het teken van verbreden, verzamelen en onderzoeken. In deze fase is nog geen definitieve keuze gemaakt, maar zijn juist zoveel mogelijk richtingen, invalshoeken en betekenissen naast elkaar gelegd.
 
-- Een video over een dag vol tracking.
-- Een strip of kinderboek over een digitaal dagboek.
-- Een poster met een enkele sterke scène.
-- Een interactieve website.
-- Een zine of mini-booklet.
+Wat deze fase heeft opgebracht:
+- meerdere thematische richtingen voor de website;
+- inzicht dat maatschappelijke waarden inhoudelijk interessant is, maar te breed bleef;
+- inzicht dat populisme actueel is, maar snel te politiek en polariserend wordt;
+- inzicht dat woke maatschappelijk herkenbaar is en ruimte biedt voor nuance;
+- een eerste hoofdvraag voor de website: wat is woke eigenlijk, en waarom gebruiken mensen het zo verschillend?
 
-Daarnaast werden verschillende genres en stijlen verkend, zoals thriller, dagboekstijl, documentair en informatief. Literatuur over storytelling en privacybewustzijn liet zien dat herkenbare, dagelijkse situaties het beste werken voor bewustwording bij jongeren. De divergerende fase leverde een breed scala aan mogelijke richtingen op, die vervolgens konden worden afgewogen. Divergent denken richt zich op kwantiteit en variatie, waardoor onverwachte invalshoeken zichtbaar worden. 
+De belangrijkste opbrengst van de divergerende fase was dus dat het onderwerp verschoof van een abstract thema naar een concreet maatschappelijk begrip dat veel discussie oproept. Daardoor werd de website niet alleen inhoudelijk scherper, maar ook relevanter voor een bredere doelgroep.
 
 ## Convergerende fase
 
-In de convergerende fase werden de ideeën beoordeeld en de meest veelbelovende uitwerking gekozen. De websitevorm werd gekozen omdat:
+In de convergerende fase zijn de ideeën uit de eerste verkenning teruggebracht tot één duidelijke richting. Daarbij is gekeken naar relevantie, helderheid, doelgroep, maatschappelijke waarde en geschiktheid voor een websitevorm.
 
-- Het medium aansluit bij de digitale doelgroep.
-- Een website structuur biedt voor een stapsgewijze verhaallijn.
-- VitePress een goede balans biedt tussen storytelling en documentatie.
-- Het mogelijk maakt om zowel proces als eindproduct te combineren.
+Wat deze fase heeft opgebracht:
+- één centrale invalshoek: woke als maatschappelijk en omstreden begrip;
+- een duidelijke doelstelling: de bezoeker helpen begrijpen wat het woord betekent, hoe het gebruikt wordt en waarom het zoveel reactie oproept;
+- een inhoudelijke structuur voor de website;
+- een eerste vertaling naar tone of voice, copy en vorm.
 
-Het thriller/dagboekstijl-concept werd gekozen omdat het spanning opbouwt zonder te overdrijven. De focus op een enkele student als hoofdpersoon maakte het verhaal concreet en herkenbaar. Convergent denken selecteert de meest haalbare en effectieve opties uit het bredere scala van de divergerende fase. 
+De website krijgt daardoor geen activistische of beschuldigende toon, maar een onderzoekende en redactionele insteek. Dat sluit beter aan bij een onderwerp waarbij veel mensen zich snel aangesproken of afgewezen voelen, en helpt om het gesprek open te houden.
 
-## Creatieve methodes
+## Stappen in de ontwikkeling van het beroepsproduct
 
-Verschillende creatieve methodes zijn gebruikt:
+De ontwikkeling van het beroepsproduct verliep in een aantal opeenvolgende stappen. Elke stap bouwde voort op de vorige en zorgde ervoor dat de inhoud eerst sterk stond voordat de websitevorm werd uitgewerkt.
 
-- **Brainstorming**: ideeën genereren voor vormen en genres.
-- **Moodboarding**: visuele research naar sfeer en stijl.
-- **Storyboarding**: de verhaallijn uitwerken in scènes.
-- **Prototyping**: ruwe versies van de website maken.
-- **Design Thinking**: empathize-define-ideate-prototype-test cyclus.
+### 1. Oriëntatie op het onderwerp
 
-Deze methodes leverden inzicht op in wat haalbaar en effectief was. Prototyping maakte snel duidelijk welke interacties en visuele elementen het beste werkten. Design thinking fasen zoals empathize en ideate leverden de basis voor de uiteindelijke conceptkeuzes. 
+In de oriëntatiefase zijn verschillende maatschappelijke thema’s onderzocht die zouden kunnen passen bij de bestaande website. Daarbij is gekeken naar actualiteit, relevantie voor de doelgroep en de mogelijkheid om een sterke inhoudelijke website op te bouwen.
 
-## Literatuur en theorie
+### 2. Brede creatieve verkenning
 
-De volgende bronnen hebben het proces beïnvloed:
+Vervolgens zijn meerdere invalshoeken bedacht en naast elkaar gezet. Hierin stond divergent denken centraal: breed zoeken, verbinden, combineren en testen welke richting het meeste potentie had.
 
-- Design Thinking theorie over divergent/convergent denken.
-- Storytellingprincipes over spanningsboog en personages.
-- Privacybewustzijnsonderzoek onder studenten.
-- Voorbeelden van digitale storytellingwebsites.
+### 3. Literatuur- en bronnenonderzoek
 
-Deze theorie vormde de basis voor de keuzes rond structuur, toon en boodschap.
+Daarna is verdiepend gekeken naar het begrip “woke” in artikelen en publieke duidingen. Dit onderzoek liet zien dat het woord zowel een historische oorsprong heeft als een actuele, sterk gepolariseerde lading.
 
-## Stappen in de ontwikkeling
+### 4. Keuze voor de definitieve invalshoek
 
-Het proces verliep in deze stappen:
+Op basis van de verkenning is gekozen voor de richting: een website die uitlegt wat woke is, hoe het woord gebruikt wordt, en waarom het zoveel weerstand of afbakening oproept. Deze keuze maakte het mogelijk om inhoud, doelgroep en vorm beter op elkaar af te stemmen.
 
-1. **Onderzoek**: privacythema’s, doelgroepgedrag, storytellingvormen.
-2. **Ideatie**: brainstormen van vormen en genres.
-3. **Conceptselectie**: kiezen voor website en thriller/dagboekstijl.
-4. **Wireframing**: opzetten van de structuur en pagina’s.
-5. **Prototyping**: eerste versie van de website maken.
-6. **Testen**: feedback van klasgenoten en itereren.
-7. **Uitwerking**: finale versie en portfolio documenteren.
+### 5. Opbouw van de contentstructuur
 
-Elke stap bevatte zowel divergerende als convergerende momenten. Prototyping leverde de meeste inzichten op, omdat het direct duidelijk maakte wat werkte en wat niet.
+Na de keuze voor de invalshoek is de inhoud geordend in een logische website-opbouw. De eerste inhoudelijke structuur bestaat uit:
+- een hero met de centrale vraag;
+- een sectie over oorsprong en betekenis;
+- een sectie over huidig gebruik van het woord;
+- een sectie over weerstand, afzetten en framing;
+- een afsluitend onderdeel dat uitnodigt tot reflectie.
 
-## Wat de fasen opleverden
+### 6. Vertaling naar websiteformaat
 
-**Divergerende fase**: een breed scala aan ideeën en invalshoeken, waardoor onverwachte combinaties zichtbaar werden, zoals de websitevorm met dagboekstijl. Deze fase voorkwam tunnelvisie en zorgde voor creatieve breedte.
+Pas na de inhoudelijke afbakening wordt het onderwerp visueel en tekstueel vertaald naar een website. Dat is een logische volgorde, omdat vorm pas goed werkt wanneer de inhoud, doelgroep en structuur eerst helder zijn.
 
-**Convergerende fase**: focus op de meest haalbare en effectieve oplossing. Hierbij werd het concept concreet gemaakt en werden keuzes onderbouwd. Deze fase zorgde ervoor dat het eindproduct realistisch en uitvoerbaar bleef.
+## Ondersteuning met tekst en beeld
 
-De combinatie van beide fasen leverde een concept op dat zowel creatief als uitvoerbaar was. Design thinking zorgt ervoor dat divergent en convergent denken elkaar versterken. 
+De tekstuele uitwerking ondersteunt het inhoudelijke doel van de website: verhelderen in plaats van overtuigen. Daarom wordt gekozen voor een rustige, redactionele schrijfstijl met korte koppen, heldere vragen en toegankelijke uitleg.
+
+Ook beeld speelt hierin een ondersteunende rol. In plaats van drukke of activistische vormgeving past bij dit onderwerp eerder:
+- een editorial of journalistieke uitstraling;
+- duidelijke typografie;
+- veel witruimte;
+- citaten of uitspraken als visuele ankers;
+- een sobere en geloofwaardige beeldtaal.
+
+Deze keuze ondersteunt het idee dat de website een plek is voor duiding en reflectie, en niet voor snelle meningen of provocatie.
+
+## Opbrengsten van divergentie en convergentie
+
+| Fase | Wat is gedaan | Wat heeft het opgeleverd |
+|------|---------------|--------------------------|
+| Divergerend | Breed verkennen van thema’s, associaties en mogelijke invalshoeken | Meerdere richtingen, waaronder privacy, maatschappelijke waarden, populisme en woke |
+| Divergerend | Creatieve methodes zoals brainstorm, associatiemapping en conceptschetsen | Inzicht in welk onderwerp maatschappelijk sterk en websitegeschikt is |
+| Convergerend | Selecteren, afbakenen en structureren | Eén duidelijke invalshoek: woke als omstreden begrip in het debat |
+| Convergerend | Inhoud ordenen voor een website | Heldere hoofdvraag, doelgroep, website-opbouw en tone of voice |
+
+## Conclusie van het creatieve proces
+
+Het creatieve proces heeft geleid tot een duidelijke verschuiving van een breed maatschappelijk thema naar een concreet, actueel en inhoudelijk rijk onderwerp. In de divergerende fase leverde dat vooral veel mogelijke richtingen en inzichten op; in de convergerende fase werd daaruit één scherpe keuze gemaakt die zowel maatschappelijk relevant als geschikt voor een website is.
+
+De belangrijkste uitkomst is dat het beroepsproduct zich ontwikkelt tot een website die niet probeert om direct een oordeel te geven, maar die bezoekers helpt om een veelgebruikt en beladen begrip beter te begrijpen. Daarmee vormt het creatieve proces de inhoudelijke basis voor de verdere vormgeving en uitwerking van het eindproduct.
