@@ -3,57 +3,55 @@ layout: home
 
 hero:
   name: Wat is woke
-  text: 
-  tagline: >
-    Een gewone dag van een student laat zien hoeveel digitale sporen ongemerkt worden achtergelaten.
+  text: Taal en framing in het publiek debat
+  tagline:
   image:
     src: /images/hero.jpg
-    alt: Illustratie van een student op zijn telefoon
+    alt: Abstracte illustratie over taal, debat en betekenis
   actions:
     - theme: brand
-      text: Portfolio
+      text: Bekijk portfolio
       link: /portfolio/voorblad
     - theme: alt
-      text: Product
+      text: Bekijk product
       link: /product/intro
 
 features:
-  - title: Onderwerp
-    details: Online privacy en digitale sporen in het dagelijks leven van studenten.
-  - title: Vorm
-    details: Een verhalende website gemaakt in VitePress als creatief storytellingportfolio.
+  - title: Portfolio
+    details: Hier wordt het volledige ontwikkelproces zichtbaar gemaakt, van eerste idee tot reflectie en verantwoording.
+  - title: Product
+    details: Hier staat het uiteindelijke concept centraal, over de betekenis en lading van het begrip 'woke'.
   - title: Doel
-    details: Bewustwording creëren over online gedrag, tracking en de zichtbaarheid van persoonlijke data.
+    details: Inzicht geven in hoe een maatschappelijk beladen begrip onderzocht, verbeeld en vertaald kan worden naar een digitaal concept.
+
 ---
 
 <div class="vp-doc">
 
 ## Welkom
 
-Dit portfolio is gemaakt voor het vak Concept, Copy & Design II en staat in het teken van storytelling.  
-Centraal staat het concept *Je klikt nooit alleen*: een verhalend project over privacy, online gedrag en de onzichtbare sporen die mensen dagelijks achterlaten. 
+Deze website is gemaakt voor het vak Concept, Copy & Design II en bestaat uit twee delen: een portfolio en een product.
 
-## Over dit project
+Het portfolio laat zien hoe het project stap voor stap is ontwikkeld. Hierin worden onder andere het concept, het creatieve proces, de keuzes in vormgeving en de reflectie op het eindresultaat uitgewerkt.
 
-In dit portfolio wordt het volledige ontwikkelproces van het communicatieconcept zichtbaar gemaakt.  
-Van motivatie en doelgroep tot verhaalwereld, personages, creatieve methodes en reflectie: elk onderdeel laat zien hoe het concept stap voor stap tot stand is gekomen.
+Het product is de uiteindelijke uitwerking van het concept. In dit deel staat de inhoudelijke ervaring centraal en wordt het onderwerp op een verhalende en toegankelijke manier gepresenteerd.
 
-De kern van het project is een storytellingwebsite waarin een gewone dag van een student wordt gebruikt om online privacy invoelbaar te maken.  
-Door middel van tekst, beeld en structuur wordt zichtbaar hoe een abstract thema als privacy kan worden vertaald naar een herkenbaar verhaal.
+## Over deze website
 
-## Opbouw van het portfolio
+De website is opgebouwd als een combinatie van proces en eindresultaat. Daardoor is niet alleen te zien wat er gemaakt is, maar ook hoe dat tot stand is gekomen.
 
-Deze website bestaat uit de volgende onderdelen:
+Het portfolio en het product vullen elkaar aan. Het ene deel laat de ontwikkeling achter het project zien, terwijl het andere deel het concept zelf laat ervaren.
 
-- Inleiding
-- Conceptbeschrijving
-- Creatief product
-- Creatief proces
-- Beoordelingsmodel
-- Feedback op andere concepten
-- Reflectie
-- Bronnen
+## Opbouw van de website
 
-Gebruik de navigatie bovenaan of het menu in de sidebar om door het portfolio te bladeren. 
+Deze website bestaat uit twee hoofddelen:
+
+- Portfolio  
+  Met onderdelen zoals inleiding, conceptbeschrijving, creatief proces, reflectie en bronnen.
+
+- Product  
+  Met de uiteindelijke uitwerking van het concept.
+
+Gebruik de navigatie bovenaan of het menu in de sidebar om tussen beide delen te wisselen.
 
 </div>
